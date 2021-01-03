@@ -8,3 +8,6 @@ This is the repository for all DS/ML tasks for both Beginners and Intermediates.
 - Submit the GitHub link to your completed project on the Google sheet. On the sheet, the link should be in the same row as your name and under the right column. 
 
 _You will get feedback thereafter._
+
+Direct link to my [submission](https://github.com/Chisequ/DS-ML-Initiative/tree/main/Level%201/Intermediate)
+
