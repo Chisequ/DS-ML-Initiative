@@ -9,5 +9,4 @@ This is the repository for all DS/ML tasks for both Beginners and Intermediates.
 
 _You will get feedback thereafter._
 
-Direct link to my [submission](https://github.com/Chisequ/DS-ML-Initiative/tree/main/Level%201/Intermediate)
 
